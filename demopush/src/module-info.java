@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author singa
+ *
+ */
+module demopush {
+}
